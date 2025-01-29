@@ -1,6 +1,6 @@
-⚠️ not maintained ⚠️
+⚠️ latest build ⚠️
 ======================
-this project is no longer maintained as i am no longer utilizing atlasOS; please use the latest *release* (not artifact) for waveOS/atlasOS 0.4.0
+this project is no longer maintained, but I want to install this still sooo
 
 waveOS
 ------
