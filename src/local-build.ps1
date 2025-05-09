@@ -12,6 +12,7 @@ $removals | % { Set-Variable -Name "remove$_" -Value $true }
 
 # Convert paths for convienience, needed for Linux/macOS
 # sigma
+# build again
 function Seperator {
 	return $args -replace '\\', "$([IO.Path]::DirectorySeparatorChar)"
 }
